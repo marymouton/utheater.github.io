@@ -42,6 +42,8 @@ collections:
       - 5_bylaws_ut_process.md
 
 header_pages:
+  - name: test
+    pafe: test.md
   - name: By-Laws
     page: bylaws_new.html
   - name: Blog
