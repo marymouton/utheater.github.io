@@ -43,7 +43,7 @@ collections:
 
 header_pages:
   - name: test
-    pafe: test.md
+    page: test.md
   - name: By-Laws
     page: bylaws_new.html
   - name: Blog
