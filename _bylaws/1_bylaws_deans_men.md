@@ -9,6 +9,7 @@ date: 2020-06-11
 wrap_div: bylaws-deans-men bylaws
 ---
 {::options auto_id_prefix="II-" /}
+# REVOKED AND ABOLISHED
 ## II. The Dean's Men
 
 ### A. Purpose
